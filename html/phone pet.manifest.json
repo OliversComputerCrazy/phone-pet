@@ -1,13 +1,1 @@
-{
-  "background_color": "#ff5094",
-  "display": "fullscreen",
-  "orientation": "portrait",
-  "start_url": "index.html",
-  "scope": "/",
-  "name": "phone pet",
-  "icons": [
-    { "src": "phone pet.144x144.png", "sizes": "144x144", "type": "image/png" },
-    { "src": "phone pet.180x180.png", "sizes": "180x180", "type": "image/png" },
-    { "src": "phone pet.512x512.png", "sizes": "512x512", "type": "image/png" }
-  ]
-}
+{"background_color":"#ff5094","display":"fullscreen","icons":[{"sizes":"144x144","src":"phone pet.144x144.png","type":"image/png"},{"sizes":"180x180","src":"phone pet.180x180.png","type":"image/png"},{"sizes":"512x512","src":"phone pet.512x512.png","type":"image/png"}],"name":"phone pet","orientation":"portrait","start_url":"./phone pet.html"}
