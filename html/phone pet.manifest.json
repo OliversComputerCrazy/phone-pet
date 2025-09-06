@@ -2,8 +2,8 @@
   "background_color": "#ff5094",
   "display": "fullscreen",
   "orientation": "portrait",
-  "start_url": "index.html",
-  "scope": "/",
+  "start_url": "./",
+  "scope": "./",
   "name": "phone pet",
   "icons": [
     { "src": "phone pet.144x144.png", "sizes": "144x144", "type": "image/png" },
